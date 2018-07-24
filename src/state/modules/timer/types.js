@@ -1,0 +1,7 @@
+export const MODULE = 'TIMER';
+
+const UPDATE_TIMER = `${MODULE}/UPDATE_TIMER`;
+const ADD_TIMER = `${MODULE}/ADD_TIMER`;
+const REMOVE_TIMER = `${MODULE}/REMOVE_TIMER`;
+
+export default { UPDATE_TIMER, ADD_TIMER, REMOVE_TIMER };
