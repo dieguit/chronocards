@@ -2,7 +2,7 @@
 
 A simple way to manage the time you spend doing different stuff.
 
-![demo](http://i66.tinypic.com/2udur06.jpg)
+![demo](http://i63.tinypic.com/t9cnpy.png)
 
 ## Development
 
