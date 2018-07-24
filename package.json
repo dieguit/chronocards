@@ -1,5 +1,6 @@
 {
   "name": "timeo",
+  "homepage" : "http://198.211.105.102/chronocards",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
