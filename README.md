@@ -20,4 +20,5 @@ $ yarn start
 ```
 Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
 
-![alt text](https://raw.githubusercontent.com/dieguit/chronocards/master/misc/Browserstack-logo%402x.png)
+Testing powered by
+[![BrowserStack Logo](https://raw.githubusercontent.com/dieguit/chronocards/master/misc/Browserstack-logo%402x.png)](https://www.browserstack.com)
