@@ -1,6 +1,7 @@
 # ChronoCards
 
 A simple way to manage the time you spend doing different stuff.
+![Screenshot image](https://raw.githubusercontent.com/dieguit/chronocards/master/misc/screen.png)
 
 ## Development
 
