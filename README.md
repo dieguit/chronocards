@@ -2,8 +2,6 @@
 
 A simple way to manage the time you spend doing different stuff.
 
-![demo](http://i63.tinypic.com/t9cnpy.png)
-
 ## Development
 
 #### Get project and dependencies
